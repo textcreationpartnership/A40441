@@ -1,0 +1,555 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue by way of question and answer concerning the deity all the responses being taken verbatim out of the Scriptures.</title>
+            <author>Freke, William, 1662-1744.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40441</idno>
+            <idno type="STC">Wing F2163</idno>
+            <idno type="STC">ESTC R30389</idno>
+            <idno type="EEBO-CITATION">11305697</idno>
+            <idno type="OCLC">ocm 11305697</idno>
+            <idno type="VID">47391</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40441)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47391)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue by way of question and answer concerning the deity all the responses being taken verbatim out of the Scriptures.</title>
+                  <author>Freke, William, 1662-1744.</author>
+                  <author>Freke, William, 1662-1744. A brief but clear confutation of the doctrine of the trinity.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Freke by Wing and NUC pre-1956 imprints.</note>
+                  <note>"A brief but clear confutation of the doctrine of the Trinity" p. 9-16.</note>
+                  <note>Imprint information supplied by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God.</term>
+               <term>Trinity.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:47391:1" rendition="simple:additions"/>
+            <head>A DIALOGUE By Way of <hi>Queſtion and Anſwer,</hi> Concerning the DEITY. All the Reſponſes being taken <hi>verbatim</hi> out of the Scriptures.</head>
+            <p>Q. <hi>1. WHO and what is God? They ſay there are ſeve<g ref="char:EOLhyphen"/>ral called GOD's in Scripture, beſides the Moſt High GOD, if it be ſo, pray give me ſome examples in the matter.</hi>
+            </p>
+            <p>A. <hi>Exod. 20.28.</hi> Thou ſhalt not revile the GODs, nor curſe the Ruler of thy people.</p>
+            <p>
+               <hi>Exod. 7.1.</hi> And the Lord ſaid unto <hi>Moſes,</hi> ſee I have made thee a GOD to <hi>Pharaoh,</hi> and <hi>Aaron</hi> thy Brother ſhall be thy Prophet.</p>
+            <p>
+               <hi>2 Cor. 4.4.</hi> In whom the GOD of this world (i. e. <hi>the Devil</hi>) hath blinded the minds of them which believe not, leſt the light of the glorious goſpel of Chriſt, who is the image of GOD ſhould ſhine unto them.</p>
+            <p>Q. <hi>2. But are not all theſe true Gods then as well as the Supream? What ſay the Scrip<g ref="char:EOLhyphen"/>tures?</hi>
+            </p>
+            <p>A. <hi>1 Cor. 8.5, 6.</hi> For though there be that are called GODS, whether in Heaven or Earth (as there be GODS many and Lords many) but to us there is but one GOD the Father, of whom are all things, and we in him, and one Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, by whom are all things, and we by him.</p>
+            <p>Q. <hi>3. What ſay the Scriptures then of theſe leſſer GOD's?</hi>
+            </p>
+            <p>A. <hi>Pſalm 97.7.</hi> Confounded be they all that ſerve graven images, that boaſt themſelves of i<g ref="char:EOLhyphen"/>dols, worſhip him (i. e. <hi>GOD</hi>) all ye Gods.</p>
+            <p>Q. <hi>4. They ſay GOD has forbid our wor<g ref="char:EOLhyphen"/>ſhipping any other but himſelf, by the Firſt Commandment, and other places, pray re<g ref="char:EOLhyphen"/>peat then if there be ſuch places in Scripture?</hi>
+            </p>
+            <p>A. <hi>Exod. 20.2.</hi> Thou ſhalt have no other GOD's before me.</p>
+            <p>
+               <hi>Deut. 6.4.</hi> Hear O <hi>Iſrael,</hi> the Lord our GOD is one Lord; (v. <hi>alſo the Emphatick Diſcourſe in the Text that follows it.)</hi>
+            </p>
+            <p>
+               <hi>Mat. 4.10.</hi> Then ſaid Jeſus unto him, get thee hence Satan, for it is written, thou ſhalt worſhip the Lord thy GOD, and him only ſhalt thou ſerve.</p>
+            <p>Q. <hi>5. But is there not a Trinity in Unity in this GOD? You ſaid, you would ſhew me a Text that calls the Father the one GOD, in oppoſition to the Son and Holy Ghoſt, pray what is it?</hi>
+            </p>
+            <p>A. <hi>Eph. 4.4, 5, 6.</hi> There is one Body, and one Spirit, even as you are called in one hope of your calling; one Lord, one Faith, one Baptiſm, one GOD, and Father of all, who is above all, and through all, and in you all.</p>
+            <p>
+               <hi>Rev. 4.2.</hi> And immediately I was in the Spi<g ref="char:EOLhyphen"/>rit, and behold a Throne was ſet in Heaven, and one ſate on the Throne— <hi>(Cap. 5. Ver. 6, 7.)</hi> And I beheld, and lo in the midſt of the Throne,
+<pb n="2" facs="tcp:47391:2"/>
+and of the four Beaſts, and in the midſt of the Elders ſtood a Lamb as if he had been ſlain, ha<g ref="char:EOLhyphen"/>ving ſeven Horns, and ſeven Eyes, which are the ſeven Spirits of GOD ſent forth into all the earth, and he came and took the Book out of the right hand of him that ſate upon the Throne, <hi>&amp;c. 1 Cor. 3.22, 23.</hi>
+            </p>
+            <p>Q. <hi>6. I ſee then that from theſe places, and becauſe that there are no ſuch words in Scrip<g ref="char:EOLhyphen"/>ture as Trinity in Unity, you are apt to believe that there is no ſuch Doctrine; but what ſay you then to</hi> John <hi>10.30.</hi> I and my Father are one; <hi>and 1 Joh. 5.7.</hi> For there are three that bear record in Heaven, the Father, the Word, and the Holy Ghoſt, and theſe three are one; <hi>you us'd to ſay that one here only ſignified a Unity in Record and Teſtimony, and not a ſubſtantial Unity, but pray what Scripture find you to fa<g ref="char:EOLhyphen"/>vour ſuch a Conſtruction?</hi>
+            </p>
+            <p>A. <hi>Joh. 17.21. (Chriſt praying for his Diſ<g ref="char:EOLhyphen"/>ciples, ſays)</hi> That they all may be one, as thou Fa<g ref="char:EOLhyphen"/>ther art in me, and I in thee, that they alſo may be one in us, that the world may believe that thou haſt ſent me.</p>
+            <p>
+               <hi>1 Cor. 3.6, 7, 8.</hi> I have planted, <hi>Apollo</hi> wa<g ref="char:EOLhyphen"/>ter'd, but GOD gave the increaſe, now he that planteth, and he that watereth are one, <hi>&amp;c.</hi>
+            </p>
+            <p>Q. <hi>7. You us'd to ſpeak alſo of a gradative precedency of Stile, when there are theſe three Perſons mention'd in Scripture, you are in the right in this indeed, that the Father is for the moſt part called GOD, the Son only Lord, and the Spirit but Holy, as in the Apoſtles Creed, but pray what other find you?</hi>
+            </p>
+            <p>A. <hi>1 Cor. 12.4, 5, 6.</hi> Now there are Diverſi<g ref="char:EOLhyphen"/>ties of gifts, but the ſame Spirit, and there are differences of Adminiſtrations, but the ſame Lord, and there are Diverſities of operations, but it is the ſame GOD which worketh all in all.</p>
+            <p>
+               <hi>2 Cor. 13.14.</hi> The grace of the Lord Jeſus Chriſt, the love of God, and the Communion of the Holy Spirit be with you all.</p>
+            <p>
+               <hi>Rom. 15.16.</hi> That I ſhould be the Miniſter of Jeſus Chriſt to the Gentiles, miniſtring the goſpel of GOD, that the offering up of the Gentiles might be acceptable, being ſanctified by the Holy Ghost.</p>
+            <p>Q. <hi>8. I perceive then by this gradation that you would inſinuate, as if the Son and Holy Ghoſt were as Servants to the Father, but pray how comes it then that the Son is ſo often called GOD in Scripture, as John 20.28.</hi> And <hi>Thomas</hi> anſwered and ſaid unto him (i.e. <hi>Chriſt</hi>) my Lord and my GOD; <hi>Rom. 9.5.</hi> Whoſe are the Fathers, and of whom as concerning the Fleſh Chriſt came, who is over all GOD bleſſed for ever, Amen; and <hi>Acts 20.28</hi> Take heed there<g ref="char:EOLhyphen"/>fore unto your ſelves, and to all the flock over the which the Holy Ghoſt hath made you overſeers, to feed the Church of GOD, which he hath purchas'd by his blood. <hi>I have repeated theſe Texts be<g ref="char:EOLhyphen"/>cauſe they ſeem too conſiderable to leave Chriſt among the leſſer GOD's; if you have any war<g ref="char:EOLhyphen"/>rant therefore to call the Father the GOD e<g ref="char:EOLhyphen"/>ven of Chriſt's GODhead, pray ſhew us ſo weighty a Text, for we do not deny him to be Chriſt's GOD as he was Man.</hi>
+            </p>
+            <p>A. <hi>Heb. 1.8, 9.</hi> But unto the Son he ſaith, thy Throne, O GOD, is for ever and ever; a Scep<g ref="char:EOLhyphen"/>ter of Righteouſneſs is the Scepter of thy Kingdom, thou haſt loved righteouſneſs, and hated iniquity, and therefore GOD, even thy GOD has anointed thee with the Oyl of Gladneſs above thy fellows.</p>
+            <p>Q. <hi>9. But what have you no other Scrip<g ref="char:EOLhyphen"/>tures to prove the preference of the Father in the Deity, that he is the Son's GOD, and that the Son wholly depends on him? If you have, pray inform me what they are.</hi>
+            </p>
+            <p>A. Rev. <hi>3.12. (wrote as ſpoke by Chriſt af<g ref="char:EOLhyphen"/>ter his Reſurrection)</hi> Him that overcometh will I make a Pillar in the Temple of GOD, and he ſhall go no more out, and I will write upon him the name of my GOD, and the name of the City of my GOD, which is the new <hi>Jeruſalem</hi> which com<g ref="char:EOLhyphen"/>eth down out of Heaven from my GOD, and I will write upon him my new name, <hi>&amp;c. John 10.29. &amp; 14.28.</hi>
+            </p>
+            <p>
+               <hi>John 20.17.</hi> Jeſus ſaith unto her, touch me not, for I am not yet aſcended to my Father, but go to my brethren, and ſay unto them, I aſcend unto my Father, and your Father, and to my GOD, and your GOD.</p>
+            <p>
+               <hi>Eph. 1.17.</hi> That the GOD of our Lord Jeſus Chriſt, the Father of Glory may give unto you the Spirit of wiſdom, and Revelation in the Know<g ref="char:EOLhyphen"/>ledge of him.</p>
+            <p>
+               <hi>1 Cor. 15.27, 28.</hi> For he hath put all things under his feet, but when he ſaith all things are put under him, 'tis manifest that he is excepted which did put all things under him, and when all things ſhall be ſubdued unto him; then ſhall the Son alſo himſelf be ſubject unto him that put all things under him, that GOD may be all in all, <hi>2. Cor. 11.13.</hi>
+            </p>
+            <p>Q. <hi>10. But are there no Texts in the Goſpel where Chriſt himſelf preach'd up the Father to be the one and only GOD, excluſive of all o<g ref="char:EOLhyphen"/>thers, as well as himſelf, pray repeat them if there be?</hi>
+            </p>
+            <p>A. <hi>Mark 12.29, &amp;c.</hi> And Jeſus anſwer'd him, the firſt of all the Commandments is, hear O <hi>Iſrael,</hi>
+               <pb n="3" facs="tcp:47391:2"/>
+the Lord our GOD, is one Lord, and thou ſhalt love the Lord thy GOD with all thy heart, and with all thy ſoul, and with all thy mind, and with all thy ſtrength, this is the firſt Command<g ref="char:EOLhyphen"/>ment, and the ſecond is like unto it, thou ſhalt love thy neighbour as thy ſelf, there is none other Commandment greater than theſe; and the Scribe ſaid unto him, well maſter, thou haſt ſaid the truth; for there is one GOD, and there is none other but he — and when Jeſus ſaw that he anſwer'd diſcreetly, he ſaid unto him, thou art not far from the Kingdom of GOD.</p>
+            <p>
+               <hi>John 8.54.</hi> Jeſus anſwer'd, if I honour my ſelf my honour is nothing, it is my Father that ho<g ref="char:EOLhyphen"/>noureth me, of whom you ſay that he is your GOD.</p>
+            <p>
+               <hi>John 17.3.</hi> And this is life eternal, that they might know thee the only true GOD, and Jeſus Chriſt whom thou haſt ſent.</p>
+            <p>
+               <hi>Luk. 18.19.</hi> And Jeſus ſaid unto him, why call<g ref="char:EOLhyphen"/>eſt thou me good, none is good ſave one, that is God.</p>
+            <p>
+               <hi>John 14.28.</hi> Ye have heard how I ſaid unto you, how I go away, and come again unto you, if ye loved me ye would rejoice, becauſe I ſaid I go unto the Father, for my Father is greater than I. <hi>(A ſtrange compariſon, if not with the pre-exiſtent ſtate of Chriſt, as well as his Manhood).</hi>
+            </p>
+            <p>Q. <hi>11. You ſay you have other Authorities in the Epiſtles as well as thoſe in the Goſpels, if you have, pray let us hear a few of them, that we may make the better Judgment upon the whole.</hi>
+            </p>
+            <p>A. <hi>1 Tim. 2.5.</hi> For there is one GOD, and one Mediator between GOD and Man, the Man Chriſt Jeſus.</p>
+            <p>
+               <hi>Rom. 16.17.</hi> To GOD only wiſe be glory thro Jeſus Christ for ever.</p>
+            <p>
+               <hi>1 Tim. 1.17.</hi> Now unto the King Eternal, Immortal and Inviſible, the only wiſe God, be ho<g ref="char:EOLhyphen"/>nour and glory for ever and ever, Amen. <hi>Was the Son inviſible?</hi>
+            </p>
+            <p>Q. <hi>12. I perceive you apprehend the Scrip<g ref="char:EOLhyphen"/>tures then to make the Father only the Su<g ref="char:EOLhyphen"/>pream GOD; pray what then is it that you think the Son to be? What ſay the Scriptures of him?</hi>
+            </p>
+            <p>A. <hi>Col. 1.15.</hi> Who is the image of the inviſi<g ref="char:EOLhyphen"/>ble GOD, the firſtborn of every Creature.</p>
+            <p>
+               <hi>Rev. 3.14.</hi> And unto the Angel of the Church of <hi>Laodicea</hi> write theſe things, ſaith the Amen, the faithful and true witneſs, and the beginning of the Creation of GOD. <hi>Rev. 1.15. Eccl. 1.4, 9. 24.9. and 18. and 23. And for the ſame Rea<g ref="char:EOLhyphen"/>ſon alſo called</hi> α <hi>and</hi> ω Rev. <hi>1.8. in oppoſition to I am in God for pure and ſimple Being.</hi>
+            </p>
+            <p>Q. <hi>But what Character had the Son in the Old Teſtament, pray acquaint me, and repeat the Texts which ſpeak of him there.</hi>
+            </p>
+            <p>A. <hi>Exod. 23 20, 21, 22.</hi> Behold I ſend an An<g ref="char:EOLhyphen"/>gel before thee to keep thee in the way, and to bring thee into the place which I have prepared for thee; beware of him, and obey his voice, for he will not pardon your tranſgreſſions, for my name is in him, but if thou ſhalt indeed obey his voice, and do all that I ſpeak, then I will be an enemy unto thine enemies, and an adverſary unto thine adverſaries, for mine Angel ſhall go before thee, and bring thee, <hi>&amp;c. Gen. 16.10.—18.1, 2, 22.48.16. Exod. 13.22.—24 10.</hi>
+            </p>
+            <p>
+               <hi>Eccl. 5.6.</hi> Suffer not thy mouth to cauſe thy fleſh to ſin, neither ſay thou before the Angel that it was an errour, wherefore ſhould GOD be angry at thy voice, <hi>&amp;c. Num. 20.16.</hi>
+            </p>
+            <p>
+               <hi>Iſa. 63.9.</hi> In all their afflictions he was affli<g ref="char:EOLhyphen"/>cted, and the Angel of his preſence ſav'd them in his love, and in his pity he redeem'd them, and he bore them, <hi>&amp;c. Iſa. 6. 1. Ezek. 1.26, 28. Zech. 12.10.</hi>
+            </p>
+            <p>Q. <hi>14. I perceive then by theſe Texts that you think Chriſt an Angel, but withal the firſt and chief, but have you no more expreſs Texts in this caſe.</hi>
+            </p>
+            <p>A. <hi>2 Eſdras 2.42 to 48.</hi> I <hi>Eſdras</hi> ſaw upon the mount <hi>Sion</hi> a great people whom I could not number, and they all praiſed the Lord with ſongs, and in the midſt of them there was a young man of a high ſtature taller than all the reſt, and upon every one of their heads he ſet crowns, and was more exalted, and which I marvell'd at greatly, ſo I asked the Angel, and ſaid, ſir, what are theſe? he anſwer'd and ſaid unto me, theſe be they that put off the mortal clothing, and put on the immortal, and have confeſſed the name of GOD, now are they crown'd and receive palms; then ſaid I unto the Angel, what young perſon is it that crowneth them, and giveth them palms in their hands, ſo he anſwer'd and ſaid unto me, it is the Son of GOD whom they have confeſſed in the world, then began I greatly to commend them that ſtood ſo ſtiffly for the name of the Lord, then the Angel ſaid unto me, go thy way, and tell my people what manner of things, and how great wonders of the Lord thy GOD thou haſt ſeen.</p>
+            <p>Q. <hi>15. But the Socinians deny the pre-exi<g ref="char:EOLhyphen"/>ſtency of Chriſt, have you any Texts therefore in the New Teſtament referring to theſe, and that may convince us that they were wrote as of his pre-exiſtency? if you have, pray re<g ref="char:EOLhyphen"/>peat them.</hi>
+            </p>
+            <p>A. <hi>1 Cor. 10.4, 5, 9. (The Apoſtle ſpeaking of the Fathers of the Children of</hi> Iſrael, <hi>ſays</hi>) and did all drink the ſame ſpiritual drink (for
+<pb n="4" facs="tcp:47391:3"/>
+they drank of that ſpiritual rock that followed them, and that rock was Chriſt) but with many of them GOD was not well-pleas'd, for they were overthrown in the Wilderneſs—neither let us tempt Chriſt as ſome of them alſo tempted, and were deſtroyed of ſerpents, <hi>Luke 13.34, 35.</hi>
+            </p>
+            <p>
+               <hi>Phil. 2.6.</hi> Let this mind be in you which was alſo in Chriſt Jeſus, who being in the form of GOD thought it not robbery to be equal with GOD, but made himſelf of no reputation, and took upon him the form of a ſervant, and was made in the like<g ref="char:EOLhyphen"/>neſs of men, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>John 16.28.</hi> I came forth from the Father, and am come into the world, again I leave the world, and go to the Father.</p>
+            <p>
+               <hi>John 13 3.</hi> Jeſus knowing that the Father had given all things into his hands, and that he was come from GOD, and went to GOD.</p>
+            <p>
+               <hi>John 17.5.</hi> And now, O Father, glorifie thou me with thine own ſelf, with the glory which I had with thee before the world was <hi>Mat. 22.44.</hi>
+            </p>
+            <p>
+               <hi>John 17.24.</hi> Father I will that they alſo whom thou haſt given be with me where I am, that they may behold my glory which thou haſt given me, for thou lovedſt me before the foundations of the world.</p>
+            <p>
+               <hi>John 8.57, 58.</hi> Then ſaid the Jews unto him, thou art not yet fifty years old, and haſt thou ſeen <hi>Abraham,</hi> Jeſus ſaid unto them, verily, verily, I ſay unto you, before <hi>Abraham</hi> was I AM.</p>
+            <p>Q. <hi>16. You were ſaying that there are Texts in the Old Teſtament wherein this great GOD-Angel, the Son tells us that he intended to be incarnate, pray what are they?</hi>
+            </p>
+            <p>A. <hi>Zech. 12.10.</hi> They ſhall look upon me whom they have pierced.</p>
+            <p>
+               <hi>Mal. 3.1.</hi> Behold I will ſend my meſſenger, and he ſhall prepare the way before me, and the Lord whom ye ſeek ſhall ſuddenly come to his Temple, even the meſſenger of the Covenant whom ye de<g ref="char:EOLhyphen"/>light, he ſhall come ſaith the Lord.</p>
+            <p>Q. <hi>17. Pray what Prerogative do the Scrip<g ref="char:EOLhyphen"/>tures allow this GOD-Angel-Son before other Angels then? They ſay you hold that GOD the Father created this firſt-begotten Son firſt, and afterwards by him as an inſtrument form'd all the other Creatures; pray what Texts have you to ſupport ſuch an Opinion?</hi>
+            </p>
+            <p>A. <hi>Heb. 1.2, 10. GOD</hi> — hath in theſe laſt days ſpoke unto us by his Son, whom he hath ap<g ref="char:EOLhyphen"/>pointed heir of all things, by whom alſo he made the worlds—and thou Lord in the beginning haſt laid the foundations of the earth, and the heavens are the work of thine hands. <hi>Heb. 2.10.</hi>
+            </p>
+            <p>
+               <hi>Eph. 3.9.</hi> And to make all men ſee what is the fellowſhip of the myſtery which from the beginning of the world hath been bid in GOD, who created all things by Jeſus Christ, <hi>1 Cor. 8.6.15.-27, 28.</hi>
+            </p>
+            <p>
+               <hi>Col. 1.15.</hi> Who is the image of the inviſible GOD, the firſt-born of every creature, for by him were all things created that are in heaven, and that are in earth, viſible and inviſible; whether they be thrones, or dominions, or principalities, or powers, all things were created by him, and for him, and he is before all things, and by him all things conſiſt, and he is the head of the body the Church, who is the beginning, the firſt-born from the dead, that in all things he might have the pre-eminence, for it pleaſed the Father that in him ſhould all fulneſs dwell, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>John 1.1.</hi> In the beginning was the word, and the word was with GOD, and the word was GOD, the ſame was in the beginning with GOD; all things were made by him, and without him was not any thing made that was made — he was in the world, and the world was made by him, and the world knew him not, he came unto his own, and his own received him not.</p>
+            <p>Q. <hi>18. But pray what Authority have you to call the Son a GOD-Angel as you do? You us'd to ſay that there is a Text where the Son as GOD is ſaid alſo to have the Angels for his Fellows, if there be ſuch, pray let us ſee it to ſatisfie us in what you do.</hi>
+            </p>
+            <p>A. <hi>Heb. 1.4.</hi> Being made ſo much better than the Angels, as he hath by inheritance obtain'd a more excellent name than they, for unto which of the Angels ſaid he at any time, thou art my Son this day have I begotten thee? and again, I will be to him a Father, and he ſhall be to me a Son; and again, when he bringeth in the firſt begotten into the world, he ſaith, and let all the Angels of GOD worſhip him, and of the Angels, he ſaith, who maketh his Angels Spirits, and his Miniſters a flame of Fire, but unto the Son, he ſaith, thy throne, O GOD, is for ever and ever a ſcepter of righteouſneſs is the ſcepter of thy kingdom, thou haſt loved righteouſneſs and hated iniquity, there<g ref="char:EOLhyphen"/>fore GOD, even thy GOD, hath anointed thee with the oyl of gladneſs above thy fellows. <hi>Rev. 8.3.—5.6, 7—14.2.</hi>
+            </p>
+            <p>Q. <hi>19. I ſee then that 'tis this Prerogative of Chriſt that makes you think him call'd the on<g ref="char:EOLhyphen"/>ly begotten Son of God ſo eminently as expreſ<g ref="char:EOLhyphen"/>ſed</hi> John <hi>3.16,</hi> &amp;c. <hi>but have you no Texts that declare Chriſt came to this very intent in<g ref="char:EOLhyphen"/>to the World incarnate, to redeem his Creati<g ref="char:EOLhyphen"/>on that fell by</hi> Adam, <hi>beſides</hi> John <hi>1,</hi> &amp;c. <hi>be<g ref="char:EOLhyphen"/>fore?</hi>
+            </p>
+            <p>A. <hi>Heb. 2.9, 10.</hi> But we ſee Jeſus who was made a little lower than the Angels for the ſuf<g ref="char:EOLhyphen"/>fering
+<pb n="5" facs="tcp:47391:3"/>
+of death crown'd with glory and honour, that he by the grace of GOD ſhould taſte death for every man for it became him for whom are all things, and by whom are all things, in bringing many ſons unto glory to make the captain of their ſalvation perfect thro' ſufferings. <hi>John 6.62.</hi>
+            </p>
+            <p>
+               <hi>Rom. 5.18, 19.</hi> Therefore as by the offence of one, judgment came upon all men to condemnation even ſo by the righteouſneſs of one, the free gift came upon all men unto juſtification of life, for as by one mans diſobedience many were made ſin<g ref="char:EOLhyphen"/>ners, ſo by the obedience of one ſhall many be made righteous.</p>
+            <p>
+               <hi>1 Cor. 15.21, 22.</hi> For ſince by man came death by man came alſo the reſurrection of the dead, for as in <hi>Adam</hi> all die, even ſo in Chriſt ſhall all be made alive. <hi>Eph. 4.10.</hi>
+            </p>
+            <p>Q. <hi>20. What you believe then that the great GOD-Angel Chriſt was reduc'd as to the firſt ſemen of an humane Soul when incarnate, and ſo loſt all his former power by it; but pray what Texts have you to prove it.</hi>
+            </p>
+            <p>A. <hi>Heb. 5.7, 8.</hi> Who in the days of his fleſh, when he had offered up prayers and ſupplications with ſtrong crying and tears unto him that was able to ſave him from death, and was heard in that he fear'd, tho' he were a Son, yet learned he obedience by the things which he ſuffer'd. <hi>John 17.2.18.—20.21.—14.31.</hi>
+            </p>
+            <p>
+               <hi>John 12.49.</hi> For I have not ſpoke of my ſelf, but the Father which ſent me gave me a Com<g ref="char:EOLhyphen"/>mandment what I ſhould ſay, and what I ſhould ſpeak.</p>
+            <p>
+               <hi>Luke 22.43.</hi> And there appeared an Angel unto him from heaven ſtrengthning him.</p>
+            <p>
+               <hi>Mat. 27.46.</hi> And about the ninth hour Jeſus cryed out with a loud voice, ſaying, <hi>Eli, Eli, la<g ref="char:EOLhyphen"/>maſabachany,</hi> that is to ſay, my GOD, my GOD, why haſt thou forſaken me?</p>
+            <p>
+               <hi>Mat. 26.39.</hi> And he went a little further, and fell on his face and pray'd, ſaying, O my Father, if it be poſſible let this cup paſs from me, never<g ref="char:EOLhyphen"/>theleſs not as I will but as thou wilt?</p>
+            <p>
+               <hi>Mat. 26.53.</hi> Thinkeſt thou that I cannot now pray to my Father, and he ſhall preſently gi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> me more than twelve legions of Angels.</p>
+            <p>
+               <hi>John 11.41, 42.</hi> Then they took away the ſtone from the place where the dead was laid, and Jeſus lift up his eyes, and ſaid, Father I thank thee that thou haſt heard me, and I know that thou heareſt me always, but becauſe of the people which ſtand by I ſaid it, that they may believe that thou haſt ſent me.</p>
+            <p>Q. <hi>21. But had not Chriſt all the glory of his pre-exiſtent ſtate reſtor'd him after the Reſurrection? Pray what ſay the Scriptures?</hi>
+            </p>
+            <p>
+               <hi>John 17.5.</hi> And now, O Father, glorifie thou me with thine own ſelf, with the glory I had with thee before the world was. <hi>Acts 2.31, 32.—3.35.</hi>
+            </p>
+            <p>
+               <hi>Mat. 28.18.</hi> And Jeſus came and ſpake unto them, ſaying, all power is given unto me in hea<g ref="char:EOLhyphen"/>ven and earth. <hi>Acts 2.24, 32.—3. 15, 26.—13.32, 33.—16.28.</hi>
+            </p>
+            <p>
+               <hi>1 Pet. 3.22.</hi> Who is gone into heaven, and is on the right hand of GOD, Angels, and Authori<g ref="char:EOLhyphen"/>ties, and Powers being made ſubject unto him.</p>
+            <p>
+               <hi>Eph. 1.20.</hi> Which he wrought in Chriſt whom he raiſed from the dead, and ſet him at his own right hand in heavenly places far above all Prin<g ref="char:EOLhyphen"/>cipality and Power, and might, and dominion, and every name that is nam'd not only in this world, but alſo in that which is to come.</p>
+            <p>Q. <hi>22. But pray have you any Texts of Chriſt, which by a Multitudinary or Ubiqui<g ref="char:EOLhyphen"/>tary Power given him, ſhew him to have been more than the</hi> Socinian<hi>'s meer Man on his Re<g ref="char:EOLhyphen"/>ſurrection.</hi>
+            </p>
+            <p>A. <hi>2 Cor. 13.5.</hi> Examine yourſelves whether ye be in the faith, prove your own ſelves, know you not your own ſelves, how that Jeſus Chriſt is in you except ye be reprobates.</p>
+            <p>
+               <hi>Mat. 18.20.</hi> For where two or three are ga<g ref="char:EOLhyphen"/>thered together in my name, there am I in the midſt of them.</p>
+            <p>
+               <hi>Eph. 4.10.</hi> He that deſcended is the ſame alſo that aſcended up far above all heavens that he might fill all things. <hi>Mat. 23.37.</hi>
+            </p>
+            <p>
+               <hi>Phil. 2.11.</hi> And that every tongue ſhould con<g ref="char:EOLhyphen"/>feſs that Jeſus Chriſt is Lord to the glory of GOD the Father. <hi>Mat. 28.18.</hi>
+            </p>
+            <p>Q. <hi>23. I perceive then that you take it for granted, that as Chriſt had all power re<g ref="char:EOLhyphen"/>ſtor'd to him, ſo he muſt have been made more than a Man to have poſſeſs'd it; and ſo alſo that his being preferr'd before the Angels is a ſure Argument that the</hi> Sociuian <hi>ſenſe of him as a meer Man is not true, but pray give me an account alſo why you call him the Son of GOD ſo often and ſo eminently in Scripture.</hi>
+            </p>
+            <p>A. <hi>Acts 13.32, 33.</hi> And we declare unto you glad-tydings, how that the promiſe which was made unto the Fathers GOD hath fulfilled the ſame unto us their Children, in that he hath raiſ<g ref="char:EOLhyphen"/>ed up Jeſus again, as it is alſo written in the ſecond Pſalm, thou art my Son this day have I begotten thee. <hi>Rom. 1.4. Heb. 1.4. Luke 11.35.</hi>
+            </p>
+            <p>
+               <hi>2 Pet. 1.17.</hi> For he receiv'd from GOD the Fa<g ref="char:EOLhyphen"/>ther honour and glory, when there came ſuch a voice to him from the excellent glory, this is my beloved Son in whom I am well-pleaſed. <hi>Heb. 1.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:47391:4"/>Q. <hi>24. But what ſay you to the Text,</hi> Phil. <hi>2.6.</hi> Let this mind be in you which was alſo in Chriſt Jeſus, who being in the form of God thought it not robbery to be equal with GOD.</p>
+            <p>A. <hi>(Ver. 7, 8, 9, 10, 11. in Context following tell us),</hi> But made himſelf of no reputation, and took upon him the form of a ſervant, and was made in the likeneſs of men, and being found in faſhion as a man he humbled himſelf, and became obedient to death, even the death of the croſs; wherefore GOD alſo hath highly exalted him, and given him a name which is above every name, that at the name of Jeſus every knee ſhould bow, of things in heaven and things in earth, and things under the earth, and that every tongue ſhould confeſs that Jeſus Chriſt is Lord to the glo<g ref="char:EOLhyphen"/>ry of GOD the Father. <hi>(And therein is the Equa<g ref="char:EOLhyphen"/>lity in the univerſal Deputation) according to what is ſaid in the Text before.</hi>
+            </p>
+            <p>Q. <hi>25. But have you no other Texts to give colour to ſuch an interpretation, and to ſhew all abſolute power in GOD the Father only.</hi>
+            </p>
+            <p>A. <hi>Mat. 20.23.</hi> And he ſaith unto them, ye ſhall drink indeed of my cup, and be baptized with the baptiſm that I am baptized with, but to ſit on my right hand and on my left is not mine to give, but it ſhall be given to them for whom it is prepared of my Father. <hi>(Barely to forgive ſins the Apoſtles had power as well as himſelf.)</hi>
+            </p>
+            <p>
+               <hi>Mark 13.32.</hi> But of that day <hi>(that is of Judg<g ref="char:EOLhyphen"/>ment)</hi> knoweth no man, no not the Angels which are in heaven, neither the Son but the Father. <hi>Surely Chriſt was as careleſs in ſpeaking as the Trinitarians are corrupt in Commenting, if this Climax can poſſibly admit a Coequality of Fa<g ref="char:EOLhyphen"/>ther and Son.</hi>
+            </p>
+            <p>
+               <hi>1 Tim. 6.15. The Apoſtle ſpeaking of the ſame day, ſays,</hi> Which in his time he ſhall ſhew who is the bleſſed and only Potentate, the King of Kings, and Lord of Lords, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Acts 1.7.</hi> And he <hi>(Chriſt)</hi> ſaith unto them, it is not for you to know the times or the ſeaſons which the Father hath put in his own power.</p>
+            <p>Q. <hi>26. But there is another Text that preſ<g ref="char:EOLhyphen"/>ſes hard upon you for an anſwer, Mat. 28.19.</hi> Go ye therefore and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghoſt. <hi>Pray what other Scrip<g ref="char:EOLhyphen"/>tures have you to explain that?</hi>
+            </p>
+            <p>A. <hi>1 Cor. 12.13.</hi> For by one Spirit are we all baptiz'd into one body, whether we be bond or free, and whether we be Jews or Gentiles, and have been all made to drink into one Spirit, <hi>&amp;c.— ver. 27.</hi> Now ye are the body of Chriſt, and mem<g ref="char:EOLhyphen"/>bers in particular.</p>
+            <p>
+               <hi>1 Cor. 10.2.</hi> And were all baptized unto <hi>Moſes</hi> in the cloud, and in the ſea.</p>
+            <p>Q. <hi>27. But what ſay you to the worſhipping of Chriſt which the Scripture mentions? Have you any Texts that limit the manner of it, I mean when not perſonally preſent to us for then, as at St.</hi> Stephen's <hi>death, and as he is a Sovereign Lord of all, 'tis not to be diſputed but that there is an extraordinary honour due to him.</hi>
+            </p>
+            <p>A. <hi>Rev. 5.9, &amp;c.</hi> And they ſung a new ſong, ſaying, thou art worthy to take the book, and to open the ſeals thereof, for thou waſt ſlain, and haſt redeem'd us to GOD by thy blood out of every kindred, and tongue, and people, and nation, and haſt made us unto our GOD Kings and Prieſts, and we ſhall reign on the earth, and I beheld, and I heard the voice of many Angels round about the throne, and the beaſts, and the elders, and the number of them was ten thouſand times ten thou<g ref="char:EOLhyphen"/>ſand, and thouſands of thouſands, ſaying with a loud voice, worthy is the Lamb that is ſlain to receive power, and riches, and wiſdom, and ſtrength, and honour, and glory, and bleſſing, and every Creature which is in heaven, and on the earth, and under the earth, and ſuch as are in the ſea, and all that are in them, heard I, ſay<g ref="char:EOLhyphen"/>ing, bleſſing, honour, glory, and power be unto him that ſitteth upon the throne, and unto the Lamb for ever and ever.</p>
+            <p>Q. <hi>27. I perceive then that by this you take the honour done to the Lamb or Chriſt to be but an honour given him by the Father, but what ſay you then to 2 Cor. 13.14.</hi> The grace of the Lord Jeſus Chriſt, and the love of GOD, and the communion of the Holy Spirit be with you all? <hi>Have you any parallel Text to ſhew that theſe words are not a worſhip to the Son and Holy Ghoſt?</hi>
+            </p>
+            <p>A. <hi>Gen. 48.16.</hi> The Angel which redeem'd me from all evil bleſs the Lads, and let my name be named on them, and the name of my Father <hi>A<g ref="char:EOLhyphen"/>braham</hi> and <hi>Iſaac,</hi> and let them grow into a multitude in the midſt of the earth. <hi>That is as if he had ſaid, God grant the Angel bleſs the Lads,</hi> &amp;c.</p>
+            <p>Q. <hi>29. But can you ſhew me any Text then where we are forbidden to worſhip either the Son, or Holy Ghoſt, if you can, pray what is it?</hi>
+            </p>
+            <p>A. <hi>John 16.23.</hi> And in that day ye ſhall ask me nothing, verily, verily, I ſay unto you, whatſoever ye ſhall ask the Father in my name he will give it you.</p>
+            <p>
+               <hi>John 16.26.</hi> At that day ye ſhall ask in my
+<pb n="7" facs="tcp:47391:4"/>
+name, and I ſay not unto you that I will pray the Father for you.</p>
+            <p>Q. <hi>30. What Scriptures have you that teſti<g ref="char:EOLhyphen"/>fie of the Holy Ghoſt, pray declare them?</hi>
+            </p>
+            <p>A. <hi>John 14.16, 17—27.</hi> But the Comfor<g ref="char:EOLhyphen"/>ter which is the Holy Ghoſt whom the Father will ſend in my name he ſhall teach you all things, and bring all things to your remembrance what<g ref="char:EOLhyphen"/>ſoever I have ſaid unto you—and I will pray the Father and he ſhall give you another Comforter, that he may abide with you for ever, even the Spirit of truth whom the world cannot receive be<g ref="char:EOLhyphen"/>cauſe it ſeeth him not, neither knoweth him, but ye know him, for be dwelleth in you, and ſhall be in you. <hi>Eph. 1.13. 1 Cor. 12.—6.19. 2 Cor. 1.22.</hi>
+            </p>
+            <p>
+               <hi>John 15.26.</hi> But when the Comforter is come whom I will ſend unto you from the Father, even the Spirit of truth which proceedeth from the Fa<g ref="char:EOLhyphen"/>ther he ſhall teſtifie of me.</p>
+            <p>Q. <hi>31.</hi> But is there any Text that ſhews you an abſolute Duality in the Father and Holy Spi<g ref="char:EOLhyphen"/>rit to confute the <hi>Socinians</hi> who think them one, and the <hi>Trinitarians</hi> that think them at leaſt Coequal and Eſſentially one?</p>
+            <p>A. <hi>Rom. 26, 27.</hi> Likewiſe the Spirit alſo help<g ref="char:EOLhyphen"/>eth our infirmities, for we know not what we ſhould pray for as we ought, but the Spirit it's ſelf maketh interceſſion, for us with groanings which cannot be utter'd, and he that ſearcheth the hearts knoweth what is the mind of the Spi<g ref="char:EOLhyphen"/>rit, becauſe he maketh interceſſion for the ſaints according to the will of GOD.</p>
+            <p>
+               <hi>Eph. 2.18.</hi> For thro' him we both have an ac<g ref="char:EOLhyphen"/>ceſs by one Spirit unto the Father.</p>
+            <p>Q. <hi>32. I perceive then by theſe Texts, that you take the Holy Ghoſt, as well ſince the Pro<g ref="char:EOLhyphen"/>phets as before,</hi> Acts <hi>28.25.</hi> Luke <hi>2.25, 26. to be Chriſt's Deputy-Angel, for I ſee not how you can ſuppoſe Chriſt to ſend the power of the Father from the Father, as the</hi> Socinians <hi>imagine, pray therefore let me know if there are any other Texts which ſhew the Son to command the Holy Ghoſt as his Lord.</hi>
+            </p>
+            <p>A. <hi>John 16.7.</hi> Nevertheleſs I tell you the truth, it is expedient for you that I go away, for if I go not away the Comforter will not come unto you, but if I depart I will ſend him unto you— <hi>(13, 14, 15 Verſes following),</hi> Howbeit when he the Spirit of truth is come, he will guide you into all truth, for he ſhall not ſpeak of himſelf, but whatſoever he ſhall hear, that ſhall he ſpeak, and he will ſhew you things to come, he ſhall glorifie me, for he ſhall receive of mine, and ſhall ſhew it unto you; all things that the Father hath are mine, therefore ſaid I, that he ſhall take of mine, and ſhew it unto you. <hi>John 7.39—14. 12.—20.22. Luke 24.49.</hi>
+            </p>
+            <p>
+               <hi>Acts 1.2.</hi> 
+               <g ref="char:V">Ʋ</g>ntil the day in which he <hi>(Chriſt)</hi> was taken up, after that he thro' the Holy Ghost had given commandment to the Apoſtles whom he had choſen. <hi>1 Cor. 12.13. Eph. 4.11. Acts 1. 8, 20, 28.</hi>
+            </p>
+            <p>
+               <hi>Acts 2.33.</hi> Therefore being by the right hand of GOD exalted, and having received of the Father the promiſe of the Holy Ghost, he hath ſhed forth this which we ſee and hear. <hi>Rev. 5.6. Mat 3.11.</hi>
+            </p>
+            <p>Q. <hi>33. But how comes it to be ſo peremp<g ref="char:EOLhyphen"/>tory then to Blaſpheme the Holy Ghoſt ac<g ref="char:EOLhyphen"/>cording to the words of Chriſt,</hi> Mat. <hi>12 31.</hi> Mark <hi>3.28.</hi>
+            </p>
+            <p>A. <hi>Acts 5.3, 4.</hi> But <hi>Peter</hi> ſaid, <hi>Ananias,</hi> why hath Satan filled thine heart to lie to the Holy Ghoſt—thou haſt not lied unto men but un<g ref="char:EOLhyphen"/>to God; i. e. <hi>Thou haſt ſtudiedly affronted e<g ref="char:EOLhyphen"/>ven God himſelf thro' us and the Holy Ghoſt, for tho'</hi> Rev. <hi>1.1.—2. 11.</hi> Heb. <hi>1.14. com<g ref="char:EOLhyphen"/>par'd to</hi> Acts <hi>2.2, 3, 4. and</hi> Luke <hi>3.21. ſhew the Holy Ghoſt to be but an Angel, yet as he is that Angel through whom by the Son of GOD he himſelf bear Record to us. 1</hi> John <hi>5.7. So in<g ref="char:EOLhyphen"/>deed in that reſpect he is the Repreſentative both of Chriſt and God himſelf.</hi>
+            </p>
+            <p>Q. <hi>34. I perceive then that according to the Texts, 1</hi> John <hi>4.6.</hi> John <hi>14.17.—15.26. which ſay,</hi> We are of GOD, he that knoweth GOD heareth us, he that is not of GOD heareth not us; hereby know we the Spirit of truth, and the Spirit of error; <hi>and</hi> Rom. <hi>8.26. 1</hi> Theſ. <hi>5.19.</hi> Mark <hi>13.11.</hi> Luke <hi>12.12. I ſay I find that you ſuppoſe with theſe Texts that there are two great Angels, an evil one, and a good one, that help and tempt all Mankind ſeveral<g ref="char:EOLhyphen"/>ly at once, but pray what Authority have you for Notioning ſuch great Spirits from Scripture.</hi>
+            </p>
+            <p>A. <hi>Rev. 12.9, 10.</hi> And the great dragon was caſt out, the old Serpent called the Devil and Satan, which deceiveth the whole world, he was caſt out into the earth, and his Angels were caſt out with him; and I heard a loud voice ſaying, now is come ſalvation and ſtrength, the kingdom of our GOD, and the power of his Chriſt, for the accuſer of our brethren is caſt down which accuſed them before our GOD day and night.</p>
+            <p>
+               <hi>Rev. 20.2, 3.</hi> And he laid hold on the Dra<g ref="char:EOLhyphen"/>gon, that old Serpent which is the Devil and Sa<g ref="char:EOLhyphen"/>tan, and bound him a thouſand years, and caſt him into the bottomleſs pit, and ſhut him up, and ſet a ſeal upon him, that he ſhould deceive the na<g ref="char:EOLhyphen"/>tions no more till the thouſand years ſhould be ful<g ref="char:EOLhyphen"/>filled, and after that he muſt be looſed a little ſeaſon.</p>
+            <p>
+               <pb n="8" facs="tcp:47391:5"/>
+               <hi>Eph. 2.2.</hi> Wherein in time paſt we walked according to the courſe of this world, according to the Prince of the power of the Air, the Spirit that now worketh in the children of diſobedience.</p>
+            <p>
+               <hi>Eph. 6.12.</hi> For we wreſtle not againſt fleſh and blood, but againſt principalities, againſt powers, againſt the rulers of the darkneſs of this world, againſt ſpiritual witkedneſs in high places.</p>
+            <p>
+               <hi>Dan. 10.12, 13.</hi> Then ſaid he unto me, fear not <hi>Daniel,</hi> for from the firſt day thou didſt ſet thine heart to underſtand, and to chaſten thy ſelf before GOD thy words were heard, and I am come for thy words, but the Prince of the King<g ref="char:EOLhyphen"/>dom of <hi>Perſia</hi> withſtood me one and twenty days, but lo <hi>Michael</hi> one of the chief Princes came to help me, and I remain'd then with the Kings of <hi>Perſia — Verſe 20, 21.</hi> Then ſaid he, knoweſt thou wherefore I come unto thee, and now will I return to fight with the Prince of <hi>Perſia,</hi> and when I am gone forth lo the Prince of <hi>Grecia</hi> ſhall come, but I will ſhew thee that which is noted in the Scripture of truth, and there is none that holdeth with me in theſe things but <hi>Michael</hi> your Prince.</p>
+            <p>
+               <hi>Dan. 12.1.</hi> And at that time ſhall <hi>Michael</hi> ſtand up, the great Prince which ſtandeth for the children of thy people; and there ſhall be a time of trouble ſuch as never was ſince there was a Nation even to that ſame time, and at that time thy people ſhall be deliver'd, every one that ſhall be found written in the book.</p>
+            <p>Q. <hi>35. I ſhall trouble you but with two or three Queſtions more; pray acquaint me whe<g ref="char:EOLhyphen"/>ther Chriſt died for a Univerſal Redemption or not? That is, did he die to Reconcile us all to GOD? And was his Death for others as well as Chriſtians?</hi>
+            </p>
+            <p>A. <hi>1 John 2.1, 2.</hi> My little Children theſe things write I unto you that ye ſin not, and if any man ſin we have an advocate with the Fa<g ref="char:EOLhyphen"/>ther, Jeſus Chriſt the Righteous, and he is the Propitiation for our ſins, and not for ours only, but alſo for the ſins of the whole world.</p>
+            <p>
+               <hi>Heb. 9.12.</hi> Neither by the blood of goats and calves, but by his own blood he enter'd in once into the holy place, having obtain'd eternal Re<g ref="char:EOLhyphen"/>demption for us — <hi>(25, 26 Verſes)</hi> nor yet that he ſhould offer himſelf often, as the high-prieſt entereth into the holy place every year with blood of others, (for then muſt he often have ſuffered ſince the foundation of the world) but now once in the end of the world hath he ap<g ref="char:EOLhyphen"/>pear'd to put away ſin by the ſacrifice of himſelf.</p>
+            <p>Q. <hi>36. Pray then acquaint me alſo, whe<g ref="char:EOLhyphen"/>ther the Scripture aſſures us of any ſafety in natural Religion where a Man has never been able to come to hear of Chriſt.</hi>
+            </p>
+            <p>A. <hi>John 9.41.</hi> Jeſus ſaith unto them, if ye were blind, ye would have no ſin, but now ye ſay, we ſee therefore your ſin remaineth.</p>
+            <p>
+               <hi>James 4.17.</hi> Therefore to him that knoweth to do good, and doth it not, to him it is ſin.</p>
+            <p>
+               <hi>Rom. 2.14, 15.</hi> For when the Gentiles which have not the law, do by nature the things con<g ref="char:EOLhyphen"/>tained in the law, theſe having not the law are a law in themſelves, which ſhew the work of the law written in their hearts, their conſcience alſo bearing witneſs, and their thoughts the mean while accuſing or elſe excuſing one another, <hi>&amp;c.</hi>
+            </p>
+            <p>Q. <hi>37. But do not the Scriptures threaten the wilfully ignorant?</hi>
+            </p>
+            <p>A. <hi>Hoſ. 4.6:</hi> My people are deſtroy'd for lack of knowledge, becauſe thou haſt rejected know<g ref="char:EOLhyphen"/>ledge, I will alſo reject thee, that thou ſhalt be no Prieſt to me, ſeeing thou haſt forgotten the law of thy GOD, I will alſo forget thy children.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="confutation">
+            <pb n="9" facs="tcp:47391:5"/>
+            <head>A Brief, but Clear <hi>CONFUTATION</hi> of the Doctrine of the <hi>TRINITY.</hi>
+            </head>
+            <p n="1">I. SUrely if God gave Man his Reaſon to ſerve him, or if a Religious Enquiry be any end of our Being, this Con<g ref="char:EOLhyphen"/>troverſie deſerves the greateſt of our Care, and the ſtricteſt Scrutiny: For what? ſhall we ſlightly transfer the Honour of God to his Creatures, and think to go unpuniſhed? Shall we thwart the very deſign of our Cre<g ref="char:EOLhyphen"/>ation; and yet after all, not imagine that 'tis a Controverſie worth examining?</p>
+            <p>Nay, or if we believe but our own Scrip<g ref="char:EOLhyphen"/>tures, can we ſlightly entertain a breach of the firſt and greateſt Commandment, as Chriſt calls it, and be guiltleſs? Shall God himſelf tell us in Jealouſie, That none other ſhall be worſhipped but himſelf? Nay, ſhall God deſtroy whole Nations for Idolatry, and the Holy Ghoſt reckon <hi>Idolatry</hi> with <hi>Whore<g ref="char:EOLhyphen"/>dom and Sorcery,</hi> Rev. 21.8. and yet we not tremble at the very Thoughts of ſuch an high Treaſon againſt the Infinite Majeſty of God?</p>
+            <p>But forſooth, we muſt not name the word <hi>Idolat y,</hi> 'tis not grateful nor genteel, you ſay, in Controverſie. And what, muſt I not rub my Friends Noſe in a Sound or Lethar<g ref="char:EOLhyphen"/>gy, becauſe 'tis an Affront when he is well? Nay, and may I not follow the Holy Ghoſt in this caſe, who has commanded our de<g ref="char:EOLhyphen"/>nouncing Idolatry againſt Antichriſt, as a Sin that not only offends God, but has corrupted our Chriſtian, as well as the Heathen Mo<g ref="char:EOLhyphen"/>rals?</p>
+            <p>And what, are we not all on Fire in our Zeal then on the leaſt Apprehenſion of ſuch a Guilt? Or what, can we bear ſuch a Charge as this with any thing like Modera<g ref="char:EOLhyphen"/>tion? In plain terms, either Chriſt and the Holy Ghoſt are Creatures, or the real ſupream God: If Creatures, 'tis plain 'tis as much I<g ref="char:EOLhyphen"/>dolatry to worſhip an Angel as a Worm; and how glorious ſoever God has made them, we are mad-men to think he has ſet them up in rivalry with himſelf, when he has abſolutely declared that he will not impart <hi>with his Glory to another.</hi>
+            </p>
+            <p>And theſe things therefore duly conſidered, methinks I have little reaſon to trouble my ſelf further to ſhew, that the Deſign of this Paper is conſiderable, and that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> every Man's Duty impartially to con<gap reason="illegible" resp="#PDCC" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap>. Chriſt ſays, that <hi>he that is not for us is againſt us;</hi> and if he judges right, the <hi>Luke-warm</hi>'s as bad as the <hi>Reprobate,</hi> and he that <hi>buries his Talents as bad as he that abuſes them.</hi>
+            </p>
+            <p n="2">II. But, good God! what do I propoſe? I endeavour to ſhew, that the Divinity attri<g ref="char:EOLhyphen"/>buted to the Son and Holy Ghoſt is both un<g ref="char:EOLhyphen"/>ſcriptural and Idolatrous, and an Injuſtice to the Father. But I forget that I write to Men that dare not even by Principle regard me.</p>
+            <p>I'le maintain to ſcruple Purgatory and Tranſubſtantiation of old, was never more dreadful to the blind Papiſts, than but to think of this Myſtery is to our preſent Proteſtants. Strange Infatuation, that Prieſts ſhould as it were thus eternize their Tyranny over us, and we ſhould never dare to look out of it!</p>
+            <p>Chriſt purpoſely as it were condemns him that had <hi>one Talent, for burying it,</hi> to ſhew us, that not the leaſt Abilities ought to reſt idle on others: And we Proteſtants by our very Name profeſs our ſelves ſuch as will not hearken to a confident corrupt Church, and now, what at laſt, muſt we degenerate and apoſtatize from our Profeſſion?</p>
+            <p>Nay, the Apoſtles <hi>call'd</hi> even the <hi>Bereans Noble</hi> for not taking things in truſt from themſelves; and <hi>a Prophet of old was torn in pieces by a Lyon for hearkning to another Pro<g ref="char:EOLhyphen"/>phet, becauſe it was wilfully to his deceit;</hi> but with us, alas! it begins to be a Merit again to believe as the Church believes.</p>
+            <p>Forſooth, theſe things are too high for me, ſays one: Says another, I'll follow Dr. ſuch an one, he is a learned Man. And what, was it not ſaid of Chriſt of old, <hi>Have any of the Scribes and Phariſees believed on him?</hi> In plain terms, he that will rely on Learned Men, and on proſpect of Arguments not in his preſent reach or capacity to ſearch or enquire, has fortify'd himſelf againſt all the Powers of Truth or Conviction.</p>
+            <p>Nay, and what ſays the Apoſtle in this caſe? Does he not tell us, <hi>That not many wiſe,
+<pb n="10" facs="tcp:47391:6"/>
+not many learned,</hi> &amp;c. <hi>are accepted?</hi> 1 Cor. 1.20. to ſhew us plainly, that 'tis neither the Great nor the Mighty, but the ſincere Enqui<g ref="char:EOLhyphen"/>rers only, that ſhall be able to attain to Di<g ref="char:EOLhyphen"/>vine Truths. And what, will we regard nei<g ref="char:EOLhyphen"/>ther Sence nor Scripture neither?</p>
+            <p>Thus the Miniſters of all Sects, what, are they not all learned? and yet who overſee Truths more than they? Either their Sim<g ref="char:EOLhyphen"/>plicity offends them, they are Tongue-tied for fear of Cenſure or Deprivation; or at beſt, they track like Wild-geeſe, and rather regard Parties than Truth. Alas! Truth and Good<g ref="char:EOLhyphen"/>neſs are one, but their Wiſdom and Learning makes them not the nearer ſo.</p>
+            <p>In plain terms, the Prieſts of all ſort hope inſenſibly to raiſe themſelves a Dominion o<g ref="char:EOLhyphen"/>ver us, and accordingly the Corrupter of them, and which are ſtill the more in num<g ref="char:EOLhyphen"/>ber, have always acted; and are we not mad then, tho' that we reverence their Offices du<g ref="char:EOLhyphen"/>ly, yet to let their Blindneſs lead our Blind<g ref="char:EOLhyphen"/>neſs hoodwink'd into the Ditch, as Chriſt ſays.</p>
+            <p>And thus, who can read our Eccleſiaſtical Hiſtories, and not perceive that all along the Prieſts of all Ages have rather ſtrove as a Fa<g ref="char:EOLhyphen"/>ction of Men to raiſe themſelves great, than to ſeek through Self-denial and Humility for the truly glorious and incorruptible Crown. No, no; were Heaven an Eſtate, they have taken the proper methods indeed to get it: I cannot ſay ſo of the Laicks in their hindring them from it.</p>
+            <p>Nor ſuffices it in this caſe to ſay, that there have been an abundance of good and well-meaning men amongſt them, even in all Ages. Alas! what have they been able to do? 't has been your wicked, and impudent, and proud Deſigners that have exalted their Hierarchies, that ſtudy rather Politicks than Religion, and which find little difficulty to hurry the good with the bad, in their Tides of the Times.</p>
+            <p n="3">III. And now, if what has been ſaid prove enough to make my Argument worth exami<g ref="char:EOLhyphen"/>ning, and ſufficient to make men lay by their Spectacles of Prieſts and Religious Factions, I ſhall be able the more chearfully, theſe Pre<g ref="char:EOLhyphen"/>judices laid by, (as I hope) to ſhew beyond all doubt, both that the Doctrine of the Tri<g ref="char:EOLhyphen"/>nity is unſcriptural, nay, and Idolatrous too, and contrary to all the known reaſonings of Mankind. And thus,</p>
+            <p>Firſt, This Doctrine of the Trinity deſtroys the very Unity of God. Our Trinitarians talk indeed of a Trinity in Unity, and that Natural Religion teaches us, that there is but one God, a white, black, or an <hi>one ſet of Gods</hi> they mean, or how elſe they can ſay that ma<g ref="char:EOLhyphen"/>ny perſonal Gods can make one God, God only knows, for I don't; this I am ſure, had the Heathen of old us'd this Argument, even an Angel muſt have deſpaired of ever con<g ref="char:EOLhyphen"/>vincing them of <hi>Politheiſm,</hi> though they had 10000 Gods.</p>
+            <p>So alſo our Trinitarians would tell us, that God is the moſt pure and ſimple Being; and yet again they can ſay, that he is 3 Perſons, has 3 Wills and 3 Underſtandings, <hi>&amp;c.</hi> Good God! that men can pretend to any concepti<g ref="char:EOLhyphen"/>on of ſuch a mock ſimplicity and Unity.</p>
+            <p>Nay, and certainly I may as juſtly add in this caſe, that this one fundamental falſe Prin<g ref="char:EOLhyphen"/>ciple, as well with Jews as Turks and Hea<g ref="char:EOLhyphen"/>thens, has done more miſchief to Chriſtianity than all our other Errours beſides. <hi>Mahomet</hi> inveighs above an hundred times againſt it in his Alchoran; and I may ſay God has pro<g ref="char:EOLhyphen"/>ſpered him with this Weapon of Truth as an unpregnable Bulwark againſt all the Aſſaults of the New Antichriſtian Chriſtianity.</p>
+            <p>To be ſhort, God that is moſt pure, muſt he be thus confounded? He that is immuta<g ref="char:EOLhyphen"/>ble, muſt he ſtoop to our little nonſenſical and pragmatical Definitions of Faith? So he that is infinite, can he be incarnate? Or he that is Almighty, can he have Coequals? much leſs die, as in the Son; or act ſuch a mean and inglorious part in ſubſtitution to Father and Son, as it put on the Holy Ghoſt.</p>
+            <p n="4">IV. Nor is the abuſe in this caſe leſs to the Firſt Commandment, than the truth of the Unity of God, <hi>Thou ſhalt have none other Gods but me,</hi> ſays God; that is not me per<g ref="char:EOLhyphen"/>ſonally, but me and my coequal Companion Gods. Bleſs me! would not this be an unli<g ref="char:EOLhyphen"/>mitable and incomprehenſible Command? And how dare we then but think, that God ſhould confound us thus!</p>
+            <p>To be ſhort, if the firſt Commandment has any Sence, 'tis plain 'tis to prohibit Poli<g ref="char:EOLhyphen"/>theiſm; and if there can be any Politheiſm, 'tis as plain, that 'tis where men ſet up many perſonal Gods. As therefore the Command<g ref="char:EOLhyphen"/>ment wrote by the Finger of God muſt be ſence, ſo many Perſons in God muſt break it, and the Trinity muſt have in it Politheiſm and Idolatry, or there can be neither Poli<g ref="char:EOLhyphen"/>theiſm nor Idolatry.</p>
+            <p>And beſides a Trinity ſuppoſes three Per<g ref="char:EOLhyphen"/>ſons in God. And why but three? Surely all between One and Infinite's imperfect; if
+<pb n="11" facs="tcp:47391:6"/>
+divers Perſonality were a Perfection in God therefore, Infinity ſhould be the number, and ſo in time by <hi>Joh.</hi> 17th. and ſome other Texts, we may happily at laſt make all the Apoſtles and good Chriſtians in as great an Unity with God as Chriſt himſelf. The Papiſts have made a fair ſtep towards it (ſome of them) in Deify<g ref="char:EOLhyphen"/>ing the Bleſſed Virgin: An admirable Foun<g ref="char:EOLhyphen"/>dation, if but well improved.</p>
+            <p n="5">V. But to return a little, and examine thoſe Contradictions as ariſe more at large from this Doctrine in the <hi>Athanaſian</hi> Creed, ſays it, <hi>The Father is God, the Son is God, and the Holy Ghoſt is God; and yet there are not three Gods, but one God.</hi> And why not as well, Peter <hi>is man,</hi> John <hi>is man, and</hi> Thomas <hi>is man; and yet there are not three men but one man:</hi> Or the <hi>Father is one, the Son is one, and the Holy Ghoſt is one, and yet there are not three ones, but one one.</hi> What? Are not all theſe Expreſſions parallel, and implicit Contradictions alike?</p>
+            <p>Yes ſurely they are; and to ſay of three Perſons each ſeverally God, that they are one God, is as much a Contradiction as to ſay, three men are one. But no, Dr. <hi>Wallis</hi> anſwers us to this matter, That 'tis three ſomewhat's only are one God, and not three common Perſona<g ref="char:EOLhyphen"/>lities; and in that there is no Contradiction, he ſays. But what, are we come from Divini<g ref="char:EOLhyphen"/>ty to Juggling? And ſhall Dr. <hi>W.</hi> change the Sence of Words, and the very Hinge of Con<g ref="char:EOLhyphen"/>troverſie at pleaſure.</p>
+            <p>And ſo alſo for the <hi>Homoonſiotes,</hi> is it not alike a Contradiction <hi>in terminis</hi> alſo, that three Perſons may be of like ſubſtance may by poſſibility be true? But to ſay that they can be of the ſame Subſtance, deſtroys their very di<g ref="char:EOLhyphen"/>ſtinct Perſonality and Subſiſtence.</p>
+            <p>And in plain terms, Did not the Trinitari<g ref="char:EOLhyphen"/>ans help themſelves out in theſe caſes with My<g ref="char:EOLhyphen"/>ſtery? Or did not their numbers ſupport them, or their Pretences to Religion ſcreen them, they could not but be deem'd as Metaphyſical Madmen. For my part I declare, I ſhall ne<g ref="char:EOLhyphen"/>ver more admire at the Abſurdities either of Papiſts, Turks or Heathens; nay, and that be they as groſs as they will, I am ſure they will never be able to exceed this Doctrine.</p>
+            <p>For inſtance, as to Tranſubſtantiation; the Body at 20 we ſee manifeſtly is not the ſame as it is at 30; and yet we ſay that 'tis proper<g ref="char:EOLhyphen"/>ly enough the ſame to moſt purpoſes. And why then alſo might not the whole Doctrine be true by the ſame reaſon, according to <hi>John</hi> the 6th, <hi>&amp;c?</hi> But what? Is there any ſuch Apology as this in nature for the Contradicti<g ref="char:EOLhyphen"/>ons of the Trinity?</p>
+            <p>But good God then, that in the mean while we ſhould thus embrace even the worſt of Po<g ref="char:EOLhyphen"/>piſh Errours, and out-do even the <hi>Deliriums</hi> of the Heathens! But what? while we do thus, can we think that God will either proſper us, or our Popiſh Reformation? What? Can we be ſo preſumptuous, as to continue in the very ſink of Errours, and that to the higheſt Diſ<g ref="char:EOLhyphen"/>honour of God, and yet expect his Favour and Protection?</p>
+            <p n="6">VI. Nor is this Doctrine one jot leſs abſurd when examined more particularly, than when thus in the groſs. And thus, Firſt, with rela<g ref="char:EOLhyphen"/>tion to the Son. Bleſs me! What a number of Abſurdities quite drown his abſolute and co<g ref="char:EOLhyphen"/>equal Divinity with the Father?</p>
+            <p>What? God himſelf muſt die to ſatisfie his own Juſtice to himſelf, and that only becauſe we have offended him? Bleſs me! What a no<g ref="char:EOLhyphen"/>tion we have of God's Juſtice? and ſo, that the Infinite and Immortal God could become incarnate, grow in Wiſdom, and ſuffer; nay, and cry out unto himſelf upon the Croſs, <hi>My God, my God, why hast thou forſaken me?</hi> Yes, yes: Infinity could become a Babe, Wiſdom it Child, and God impotent.</p>
+            <p>Nay, ſurely <hi>Elijah</hi> was a vile and wretched Blaſphemer to mock the <hi>Baalites</hi> as he did, when he ſaid, <hi>their God was either walking, talking, or gone a Journey.</hi> What? Can we ſuppoſe that that great Prophet, who was af<g ref="char:EOLhyphen"/>terwards tranſlated, did not know that God himſelf was afterwards to become incarnate?</p>
+            <p>But what? Did only the Man die? Was on<g ref="char:EOLhyphen"/>ly the Man tempted? Chriſt then was but in<g ref="char:EOLhyphen"/>habited by the Godhead; and when the Man was in his Streights, God left him to comfort himſelf; but where is the room for the Merits and Sufferings of the Godhead then?</p>
+            <p>So you ſay, Chriſt liv'd and ſuffer'd as our Example. Alas! What Affinity for God to be a Pattern for Man? What? Is there any Parity in their Natures? But no, 'twas not the Godhead that was tempted or ſuffered, ſome ſay. But why then is the Merits of it charged unjuſtly upon the Godhead, when it belongs to the Man only?</p>
+            <p>So alſo ſometimes by a kind of Ventriloquy they make Chriſt as God, to be able to tell us all things; but by and by again as as Man they attribute Ignorance to him: So ſometimes a<g ref="char:EOLhyphen"/>gain they make him omnipotent, and yet by and by again <hi>Hocus Focus,</hi> we muſt have an Angel to comfort him againſt his Sufferings. Good God! ſhall we never be delivered from theſe Labyrinths?</p>
+            <p>
+               <pb n="12" facs="tcp:47391:7"/>So alſo they tell us, that <hi>Chriſt for his Suf<g ref="char:EOLhyphen"/>ferings is made our Mediator.</hi> But what? Is that an Honour for a coequal God? 1 <hi>Cor.</hi> 15.28. And ſo that <hi>all Power in Heaven and Earth was given him</hi> on his Death. But what? Could he then be a coequal God before? Or what? Was ſuch Power given to his Manhood only?</p>
+            <p>Nay, and do not the Scriptures alſo aſſure us, that the Son as God, yet even as ſuch has the Father as his God, <hi>Heb.</hi> 1. and that even the Revelations he gave St. <hi>John</hi> he had from the Father, <hi>Rev.</hi> 11. But alas! our Trinitari<g ref="char:EOLhyphen"/>ans forſooth will not own that we honour Chriſt at all, unleſs we hairbrainly equal him with them to the Father.</p>
+            <p n="7">VII. But now as for the pretended Deity of the Holy Ghoſt, there, there can be no ſuch Shuffle and Apology as the Incarnation occa<g ref="char:EOLhyphen"/>ſions for the Son; and yet think you, that our Trinitarians for all that cannot wire-draw the manifeſt Inferiority of that Holy Being alſo quite up to a Coequality with the Father?</p>
+            <p>Thus he that is not once called God in Scripture, nor once order'd to be worſhip'd, is it likely that he ſhould be our one and only adorable Supream God? And is not this true of the Holy Ghoſt? And yet for all this, do they not equal him to the Father?</p>
+            <p>So alſo, he that has an Underſtanding di<g ref="char:EOLhyphen"/>ſtinct from God, can he be God himſelf? 1 <hi>Cor.</hi> 2.10. Or a Will diſtinct, can he be God? <hi>Rom.</hi> 8.26, 27. And what then? Would not theſe Reaſonings make a man proteſt with the Holy Ghoſt, that ſurely theſe men <hi>have Eyes and ſee not, and Ears and hear not.</hi>
+            </p>
+            <p>But to proceed, the Holy Ghoſt prays to another, how can he then be God? <hi>Rev.</hi> 22.17. <hi>Matth.</hi> 10.20. <hi>Rom.</hi> 8.15.26. So he, that men <hi>have not known, much</hi> leſs <hi>believed,</hi> and yet have been Diſciples, can he be God? And are we not told this of the Holy Ghoſt in the <hi>Acts</hi> of the <hi>Apostles?</hi>
+            </p>
+            <p>So alſo he that is ſent by God, and is his Gift, <hi>John</hi> 16.7. <hi>Acts</hi> 12.17. 1 <hi>Pet.</hi> 1.12. can he be that God giving and ſending alſo? Surely I may ſay, that theſe bundles of Incon<g ref="char:EOLhyphen"/>gruities have ſo quite confounded our Trinita<g ref="char:EOLhyphen"/>rians, that they know not how to reaſon at all in the matter; or their Enemy has a moſt pe<g ref="char:EOLhyphen"/>culiar Charm over them to with hold them from Truth, againſt all the powers of Reaſon<g ref="char:EOLhyphen"/>ing.</p>
+            <p>So he that receives from another, or changes place cannot be God. And does not this ap<g ref="char:EOLhyphen"/>pear of the Holy Ghoſt by <hi>John</hi> 16 14? And his deſcending on Chriſt like a Dove; and ſo alſo he that ſpeaks not of himſelf can he be God? And does not the Holy Ghoſt ap<g ref="char:EOLhyphen"/>pear to receive what he ſhall ſpeak by the whole courſe of Scriptures, <hi>John</hi> 16.13. But good God then, that Men can ſeign ſuch Epi<g ref="char:EOLhyphen"/>cles in Theology on any pretence, as that the all-wiſe and immutable God ſhould be taught, and truckle thus!</p>
+            <p n="8">VIII. Nor are theſe few only a ſmall num<g ref="char:EOLhyphen"/>ber of Conſequences drawn from Reaſoning: Alas! this Doctrine is as unſcriptural as ab<g ref="char:EOLhyphen"/>ſurd: The expreſſeſt Text of the Father is the firſt Commandment, of the Son, <hi>Heb. cap.</hi> 1. and of the Holy Ghoſt, <hi>John</hi> 16.12. <hi>&amp;c.</hi> But ſurely thoſe are all as contrary and remote from a coequal, and independent Trinity in Unity as Light from Darkneſs.</p>
+            <p>Or if Men were otherwiſe minded to con<g ref="char:EOLhyphen"/>trovert this Doctrine by the whole Scriptures, I ſay, let them but do it fairly, and have at them: By wreſting little ſingle Scraps indeed, the Trinitarians ſeem as if they had ſomething to plead for themſelves; but when I have ga<g ref="char:EOLhyphen"/>ther'd but all the Texts of a Subject together, methinks nothing poſſibly can look more un<g ref="char:EOLhyphen"/>ſcriptural.</p>
+            <p>Nay, and 'tis pleaſant to obſerve how the Trinitarians even confound one another about this matter. Forſooth, for all this Creed is ſuch an infallible Thunderer, yet Dr. <hi>W.</hi> dares be ſo bold as to clip the Wings of its Dam<g ref="char:EOLhyphen"/>natory Sentences, and Dr. <hi>S.</hi> with the Greek Church, to deny the Filioque. I thought that this rare Contexture was all of a piece: But I find for their turns even our very Adverſaries can ſhew I am miſtaken.</p>
+            <p>To be ſhort, the three grand Foundations of this Doctrine are the Eternal Generation, the Proceſſion of the Holy Ghoſt, and the Homo<g ref="char:EOLhyphen"/>ouſiotes. Great and noble Thoughts indeed, if true. But I here challenge any man upon the face of the Earth, to ſhew ſo much as one Text with ſence to favour them; and might not we be aſham'd then of ſuch Caſtles in the Air.</p>
+            <p n="9">IX. Nor is the Tradition of this Doctrine when examined leſs conſiderable than its Scrip<g ref="char:EOLhyphen"/>ture proof. What? Are not all our Prayers even at this day to the Father, except a few and trifling innovations? And can there be a greater Tradition in Nature for it than that is againſt it?</p>
+            <p>They Chriſten this Doctrine <hi>Athanaſian</hi> in<g ref="char:EOLhyphen"/>deed; and ſurely a happy Doctrine to as hap<g ref="char:EOLhyphen"/>py a Patron. What was his firſt entrance into the Miniſtry but a wicked Mock-Baptiſm?
+<pb n="13" facs="tcp:47391:7"/>
+And while that for which another would have puniſhed him as confident and impious, <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> forſooth admires and advances him.</p>
+            <p>Nay, read but his treatment of the excel<g ref="char:EOLhyphen"/>lent Emperour <hi>Conſtantius,</hi> not ſo much an <hi>Arrian,</hi> as one who ſought the Apoſtolique Li<g ref="char:EOLhyphen"/>berty; and you will quickly ſee what a bleſſed Saint he was. I may ſay, Mr. <hi>Johnſon</hi> in his Book, call'd <hi>Julian's Arts,</hi> p. 55. has ſet out <hi>Athanaſius</hi> and his Followers beyond all the bloody Anabaptiſts, Jeſuits and Villains that ever profeſſed Chriſtianity, (had they not been more cowardly in acting than thinking.) His Paſſage is too fine of it ſelf about it to need the leaſt ſtroke of an Unitarian Addition.</p>
+            <p>Nor may I add, is the common Doxology of a leſs precious ſtamp than its Patron. <hi>Sparks</hi> himſelf on the Liturgy, tells you, that before the Trinitarians alter'd it, it run, <hi>Glory be to the Father, through the Son, and by the Holy Ghoſt,</hi> and then ſurely hopefully improved ſince.</p>
+            <p>To be ſhort, who can read Hiſtories, and not ſee that Popes, that Councils, yea, that the whole World was Unitarian at one time; and till a corrupter Church, that has ſince forged and mangled, as well all Hiſtories as Traditions, as the Apoſtle propheſied, <hi>was given up to believe a Lie.</hi>
+            </p>
+            <p n="10">X. And what, theſe things conſider'd then, can any Mortal be ſo unreaſonable as to vindi<g ref="char:EOLhyphen"/>cate an Impoſition of the Trinity, or an inno<g ref="char:EOLhyphen"/>vation of new Articles of Faith upon us for it.</p>
+            <p>And thus alſo, what tho this Doctrine were a moſt Divine Truth, yet in the terms explain'd is it not apparently humane? What? Is there either Trinity in Unity, Homoouſios, Eternal Generation, Proceſſion of the Holy Ghoſt, or <hi>Athanaſian</hi> Creed to be found in Holy Writ? And are not men very confident then that dare change the words, and yet not fear the ſpoiling of incomprehenſible Myſteries under them, and in Scripture-terms pray who will diſagree with them?</p>
+            <p>Nay, or what can the Trinitarians mean, when they explain this Doctrine the moſt nicely of any, and yet at the ſame time cry out 'tis incom<g ref="char:EOLhyphen"/>prehenſible. What? Are not theſe ſhrewd men, that would force all Mankind to conceive things even by themſelves confeſſed inconceivable?</p>
+            <p>Nay, and what ſays Chriſt in this caſe? <hi>Wo be to him that gives Offence; it were better that a mil<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>one were hung about his neck</hi> &amp;c. But are our Trinitarians of that mind? No, they are glad of an incomprehenſible ſtumbling-block, and hug and enforce it more eagerly, tho' con<g ref="char:EOLhyphen"/>feſſed unintelligible, than the plaineſt Doctrins whatever.</p>
+            <p>To be ſhort, Hiſtory tells us that the <hi>Jews</hi> have often met, if poſſible, to reconcile them<g ref="char:EOLhyphen"/>ſelves to Chriſtianity; and what think you has hindred? Nothing but this, and a few other enforced unſcriptural Myſteries, that were it not for prejudice, none but an Idiot could go down with. And think you then, that theſe men ſhall not one day pay for theſe their Of<g ref="char:EOLhyphen"/>fences?</p>
+            <p>In plain terms, I'd looſe a Million, were I worth it, but to hear one inconvenience named in the ancient and Apoſtolick Liberty and Free<g ref="char:EOLhyphen"/>dom. But no forſooth, that's not the caſe with our Trinitarians; a baſtard Conſtancy and Ob<g ref="char:EOLhyphen"/>ſtinacy ſhall make them maintain a Creed with Damnation at middle and both ends, be it on<g ref="char:EOLhyphen"/>ly to ſet us on Sins and Confuſions inextrica<g ref="char:EOLhyphen"/>ble, and to fright every body from the Church of Chriſt that would approach it.</p>
+            <p>Says <hi>Conſtantine, Chriſtians fall ſhort of Hea<g ref="char:EOLhyphen"/>then Philoſophers; for they, tho' diſagreeing in multitudes of Opinions, yet still and nevertheleſs eſteem one another for their Learning.</hi> And in truth, our different Opinions of God ſhould ra<g ref="char:EOLhyphen"/>ther convince us of our Ignorance, and teach us how to adore his unſearchable Goodneſs, then ſet us to quarrelling with one another.</p>
+            <p>So St. <hi>Hillary</hi> Bp. of <hi>Poictiers</hi> in <hi>France, wri<g ref="char:EOLhyphen"/>ting of the times about the Council of</hi> Nice, ſays, <hi>Annuas &amp; menſtruas de deo fides decernimus, decretis paenitemus paenitentes defendimus, defen<g ref="char:EOLhyphen"/>dentes anthematizamur, aut in noſtris aliena, aut in alienis noſtra damnamus, &amp; mordentes in<g ref="char:EOLhyphen"/>vicem jam abſumpti ſumus.</hi>
+            </p>
+            <p>But what ſays a Modern Author upon it? <hi>Nevertheleſs the more adviſed Chriſtians were more moderate, ſtill reputing honeſt men, honeſt men, tho' weak, and not able to diſcern the ſubtilties of the times.</hi> But what, is this like the Temper of our preſent Myſtery Men?</p>
+            <p>Nay, and this on the ſuppoſition that this Doctrine of the Trinity may be a probable Do<g ref="char:EOLhyphen"/>ctrine, and not abſolutely falſe. But good God! how little grounds of any probability is there to be found in this Myſtery? And then pray, what can be alledged for its unreaſonableneſs?</p>
+            <p n="11">XI. And thus, firſt, is it likely that God ſhould ſo far innovate with the <hi>Jews</hi> on their firſt Commandment, as the Trinity implies, and yet not give it <hi>an expreſs</hi> Repeal and Conſtru<g ref="char:EOLhyphen"/>ction? Or is it probable that the Scriptures ſhould be ſo ſilent of the Worſhip and Dignity of the Son and Holy Ghoſt, if Perſons really coequal with the Father, as not once to men<g ref="char:EOLhyphen"/>tion it.</p>
+            <p>Or is it probable that ſo great a truth ſhould
+<pb n="14" facs="tcp:47391:8"/>
+be left for <hi>Alexander</hi> and <hi>Athanaſius</hi> only to declare it, and that near 300 years after Chriſt and his Apoſtles? Or is it pro<g ref="char:EOLhyphen"/>bable that the Apoſtolique Church, that wanted this new-fangled Faith was therefore leſs perfect than our preſent Churches? Or if it were, is it probable that they would have omitted it?</p>
+            <p>Or is it probable, that as the <hi>Athanaſian</hi> Creed implies, we ſhould be ſaved only by Par<g ref="char:EOLhyphen"/>roting over a few and unintelligible Articles of Faith? Or is it more probable that the Church ſhould be leſs pure or Orthodox in a Primitive Simplicity without them?</p>
+            <p>Nay, is it probable, that ever that can be a plainly revealed Divine Myſtery, which the Trinitarians for this 1300 years have neither known what 'tis they mean, nor agreed either in Expreſſions or Sence about it; and ſo that their Foundation is after all ſo tottering, that not a little Heretick, as they call them, ap<g ref="char:EOLhyphen"/>pears, but what is able to put them to ſuppreſ<g ref="char:EOLhyphen"/>ſion; and to uſe Force inſtead of Argument.</p>
+            <p n="12">XII. But good God! this charging of the Trinitarians with Unreaſonableneſs and Impro<g ref="char:EOLhyphen"/>babilities is trifling, tho moſt juſt, when com<g ref="char:EOLhyphen"/>pared with their real Guilt. To be ſhort, as I have ſaid, Trinitarianiſm is Politheiſm and I<g ref="char:EOLhyphen"/>dolatry, if there be any ſuch a thing in nature; and if, as Chriſt tells us, <hi>he that breaks one Commandment is guilty of the whole Law,</hi> what muſt our wilful Trinitarians expect? Nay, and if not, ſurely 'twere better for them to be A<g ref="char:EOLhyphen"/>dulterers than Idolaters, if Chriſt knew which <hi>Commandment</hi> was <hi>greateſt?</hi>
+            </p>
+            <p>Forſooth, the Trinitarians have been apt to accuſe us Unitarians of <hi>Hereſie and Blaſphemy,</hi> in denying the Divinity of the Son and Holy Ghoſt. Bleſs me! that Men can ſo groſly over<g ref="char:EOLhyphen"/>ſee their own Guilt; on the other hand, ſo as to make nothing of Idolatrouſly equalling and worſhipping them with the Father.</p>
+            <p>In plain terms, men that can cheriſh this Errour knowingly, and, as I fear, too many do make Intereſt and Reputation only their God, and the Almighty God their Laughing-ſtock. And what could Chriſt ſay of the Pha<g ref="char:EOLhyphen"/>riſees of old, <hi>That Whoremongers and Adulterers entred the Kingdom of God before them?</hi> And can ſuch our modern Idolaters expect a better Sentence? No certainly, if there be any ſuch a thing as Sin or Guilt in nature, they as much exceed our common Villains and Criminals in it, as a Bankrupt a generous Robber, or a Po<g ref="char:EOLhyphen"/>piſh Adulterer that vows Chaſtity a common Fornicator.</p>
+            <p>To be ſhort, well might Chriſt ſay, when <hi>the Son of Man comes, ſhall he find Faith upon Earth?</hi> For were that time now, where ſhould he look for it? What, among the Heathen? If not, what, can a Trinitarian pretend to it, that dares not even to value Idolatry and the firſt Commandment? We are reformed with <hi>Lu<g ref="char:EOLhyphen"/>ther,</hi> you ſay: Ay, juſt as men that love to follow a new Song, we admire him; but I fear God will ſhew us one day, that our Hearts are ſtill as Popiſh as ever.</p>
+            <p n="13">XIII. Nay, I may ſay, the Guilt and Horror of this Idolatry has been ſo groſs in the all-ſeeing Prophecy of God, that he has marked it all a<g ref="char:EOLhyphen"/>long as the great <hi>Characteriſtick</hi> of <hi>Antichriſt.</hi> And thus <hi>Jurieu,</hi> and who I think alſo beſt in<g ref="char:EOLhyphen"/>terpre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the Prophecies, places the riſe of An<g ref="char:EOLhyphen"/>tichriſt juſt about the time of the ſettlement of this Myſtery.</p>
+            <p>But not to reſt on fickle Interpretations of that nature only, pray but mind how the Holy Ghoſt even engraves this Doctrine on the Fore<g ref="char:EOLhyphen"/>head of Antichriſt: Says he, <hi>Rev.</hi> 17.5. <hi>And upon her forehead was a name written, Myſtery,</hi> Babylon <hi>the great the Mother of Harlots, and the Abominations of the Earth.</hi> And unto what, I pray, in Popery, can that word <hi>Myſtery</hi> there ſo properly relate as the Trinity.</p>
+            <p>Nor is this all; the Holy Ghoſt is yet more expreſs: ſays he, 2 <hi>Theſ.</hi> 2.11. <hi>And for this cauſe God ſhall ſend them strong deluſion, that they ſhould believe a lie, that they all might be damned, who believe not the truth,</hi> &amp;c. And now I pray, <hi>what Lie</hi> in Faith has Antichriſt but the Trinity?</p>
+            <p>And what then? Can we we ſee this? Nay, can we ſee <hi>Antichrist</hi> at every foot branded for an <hi>Idolater?</hi> and no doubt for nothing more than this: For to alledge that the Papiſts wor<g ref="char:EOLhyphen"/>ſhip their Saints or Images as Gods, is as im<g ref="char:EOLhyphen"/>pertinent as falſe. I ſay, can we but ſee this, and not be fired with a juſt Zeal to reſcue the Honour of God?</p>
+            <p>Nay, for my part I declare, I ſhould think my ſelf mad to ſcruple at, or make bones of the reſt of Popery, if I could but once be perſwa<g ref="char:EOLhyphen"/>ded to down with this Myſtery. But, good God! in the mean while where is our Conſcience gone? In plain terms, we had as good burn our Bibles, and fire our Temples, as thus fling away a 7th of our time in Hypocriſie and Ido<g ref="char:EOLhyphen"/>latry before God. What for ſhame, can we think we ſerve him, when we thus ſpit in his Face?</p>
+            <p n="14">XIV. Nay, and methinks he has winked at our Ignorance long enough in it: And ſurely,
+<pb n="15" facs="tcp:47391:8"/>
+were we not quite ſear'd, 'twere enough to make us tremble to think how ſacrilegiouſly we have withdrawn his Honour from him. Strange! <hi>the Jews of old would rather periſh than ſuffer the</hi> Roman <hi>Enſigns to be put up for fear of Idolatry.</hi> But, good God! what is be<g ref="char:EOLhyphen"/>come of ſuch our holy Jealouſies, who care not how we treat our God?</p>
+            <p>But what then? If ſome men blaſpheme God and his Holy Revelation with a Faith fit<g ref="char:EOLhyphen"/>ter for Madmen than Chriſtians, and wilfully perſiſt to do ſo, ſhall not others dare vindicate his Holy Name, in publickly profeſſing his Truth? Chriſt came to preach to us to a fine purpoſe, and we are baptized as hopefully to fight under his Banner, if we are excus'd for dangers ſake only of entertaining, and profeſ<g ref="char:EOLhyphen"/>ſing his Truths too where they are offer'd.</p>
+            <p>Yes truly, and the Church it ſelf too, that Chriſt has propheſied ſhould endure ſo long, would quickly be in a hopeful condition, ſhould every little or great Revolution of Perſecution ſilence us from our acknowledging our God and his Worſhip to the World, if ſome had not hazarded more for the Glory of God than ſo before us, one might eaſily gueſs what fine Chriſtians we ſhould have been by this time.</p>
+            <p>To be ſhort, the <hi>Iſraelites</hi> in <hi>ſetting up a Calf for their God that brought them out of E<g ref="char:EOLhyphen"/>gypt,</hi> were not more guilty of Idolatry, call it in a miſtake, Miſ-ſpeculation, or how you will, than our preſent Trinitarians. And what then? is it not enough for every little <hi>Luke<g ref="char:EOLhyphen"/>warm</hi> Heart to hear Chriſt's Sentence, <hi>That who<g ref="char:EOLhyphen"/>ever confeſſes not him nor his truths before man, neither will Christ acknowledge him before his Father and the Angels,</hi> to the deterring of him from ſmothering thus as well the Fountains of Truth as Chriſtianity. Beſides that, we have in Example the manifeſt approbation of God, of <hi>Phineas,</hi> and ſeveral of the Kings of <hi>Iſrael</hi> for their attempting the Reformation of the Church, tho' to their hazard, to encourage us to do the like after them.</p>
+            <p>Nay, and what tho' with <hi>Socrates</hi> and others in ſuch caſe a man hazards Death for his Re<g ref="char:EOLhyphen"/>proof, what? mayn't a man be a Soldier, and venture as wiſely and as freely for his God, as many others do for their Prince? I know the World's too cowardly and irreligious; gene<g ref="char:EOLhyphen"/>rally their Love to God proves too cold, and their hazard too certain, and that 'tis makes 'em turn their backs in this matter, if not quarrel with them that put them on it: But ſurely if Martyrdom it ſelf been't Folly, this courſe, eſpecially for this Truth, is blameleſs.</p>
+            <p n="15">XV. But, good God! then does it not deſerve our pity, to ſee how on the other ſide ſome men rather ſhipwrack Conſcience, than not write a<g ref="char:EOLhyphen"/>ny thing to varniſh over an old rotten Error for Preferment, and that right Mountebank<g ref="char:EOLhyphen"/>like, ſo that they can but be confident and bold enough to gull the People, nor care what they ſay nor what they tumble down, but <hi>per fas &amp; nefas,</hi> either by Sophiſtry or Butchery endea<g ref="char:EOLhyphen"/>vour to make all good Catholicks. Bleſs me! Are not theſe Men far enough from hazarding all for the Truth?</p>
+            <p>So ſome alſo as they know, that commonly the beſt Sophiſter paſſes for the beſt Chriſtian, and a bold and wicked uncharitableneſs for the beſt Argument What, do they not deal with us accordingly? And thus, if at any time they argue with us, is it not rather to wrangle and banter, than ſeek for Truth? Yes ſurely; and O! if they can but fall on the Authors Perſon, or ſome trifling Faults in his Writings, matters poſſibly as Foreign from the thing in hand as Light from Darkneſs, yet ſtreight what a Victory you hear of!</p>
+            <p>So alſo, if they can but perſecute a Man to recant a little, Good God! how they boaſt of their Cauſe upon it! But bleſs me, that the World ſhould have ſo little Sincerity in it! <hi>Heu terras Astraea reliquit.</hi> But why do I won<g ref="char:EOLhyphen"/>der! when ſome men are even ſear'd againſt Truth and Conviction, and dare diſpute even Demonſtrations.</p>
+            <p>Nay ſome, as if Truth were impertinent, and Sincerity ridiculous with them, even baffle them in their ſtrong Holds, yet their Hydra<g ref="char:EOLhyphen"/>headed Arguments will rather multiply upon it than die, tho never ſo abſurd. In plain terms, it ſeems as a Witchcraft and Poſſeſſion upon them, and as if incurable but by the immedi<g ref="char:EOLhyphen"/>ate Power of God himſelf: And what, are not theſe lamentable ſights to behold then?</p>
+            <p>And yet after all, to ſhew you that they are not ſo unſenſible neither as they would ſeem, 'tis only when that they are attacked by ſome home Truths, that they rave, and ſhufflle, and cut thus: Forſooth, if ſome trifling Sect only ſcratch them with their Pens as devoid of dan<g ref="char:EOLhyphen"/>ger, they can bear it with a tolerable Patience; but, as if ſtung by a Tarantula, to the immor<g ref="char:EOLhyphen"/>tal Honour of the Reformation, a <hi>poor Woman</hi> muſt be their laſt Sacrifice to Hereſie, ſince ſhe proved to be ſo notorious a Creature as an Unitarian <hi>Arrian.</hi>
+            </p>
+            <p>Nay, and I'll maintain, that by theſe Arts, and a little other holy Juggle our Prieſts have made the very Name, much more the Argu<g ref="char:EOLhyphen"/>ment
+<pb n="16" facs="tcp:47391:9"/>
+of Unitarianiſm more odions to their Followers than ever Hobgoblins were to Chil<g ref="char:EOLhyphen"/>dren. <hi>The Papiſts paint Devils on the backs of the Heretick Proteſtants they burn, to perſwade their Followers what's within by what's with<g ref="char:EOLhyphen"/>out.</hi> And our modern Papiſts are little better at heart; for by their conſents, and if they could, they would damn all that talk, ay, or but think of Unitarianiſm.</p>
+            <p n="16">XVI. And yet they're not without their Sub<g ref="char:EOLhyphen"/>tilties neither, for, for fear ſome bolder Spirits ſhould ſcorn ſuch their childiſh Bugbears, ſtreight their ſilly Whimſies are ſtyled <hi>Myſteries.</hi> But, good God! that Men can be ſo blind as to be gull'd ſo. God has revealed a Myſte<g ref="char:EOLhyphen"/>ry to us that is ſomething unintelligible. Bleſs me! what a Revelation we have got!</p>
+            <p>But forſooth, we have learnt upon occaſion with the Church of <hi>Rome</hi> therefore wiſely alſo to couple a little Perſecution with our Myſte<g ref="char:EOLhyphen"/>ries. Alas! the Holy Ghoſt has marked the An<g ref="char:EOLhyphen"/>tichriſtian Church by way of caution with <hi>My<g ref="char:EOLhyphen"/>ſtery</hi> in her Forehead, and Men are grown too ſenſible by long experience, that ſuch Traſh will ne're go down, unleſs driven by a little honeſt Compulſion.</p>
+            <p>But bleſs me! that men ſhou'd thus ſtill con<g ref="char:EOLhyphen"/>tinue to be cheated by the old Gull of Myſtery; that conſtant Trick of Prieſts in all Ages, that clouds all Truths, and ſtops all free reaſoning, that has ſupported all the Abſurdities of Ido<g ref="char:EOLhyphen"/>latry, and that by leading men into a bruitiſh blindneſs, has become every way rather ſer<g ref="char:EOLhyphen"/>viceable to the Devil than God.</p>
+            <p>☞ You ſay you entertain the Sum of your Religion in Myſteries, and why not this Liberty to be allow'd in Heatheniſm as well as Chri<g ref="char:EOLhyphen"/>ſtianity, or in Popery as well as Proteſtancy? blind Truſt is the ſame whether in Truth or Error: Or if not, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then in God's Name ought not every Cauſe to have a fair hearing alike? But no, ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght here ſteps up ſome o<g ref="char:EOLhyphen"/>ther Trinitarian Shuffle; and I'll maintain, for Intereſt or Prejudice they ſhall wrangle out the Truth, tho' never ſo clear.</p>
+            <p>And what, is not this our Trinitarians caſe, who almoſt all rather perverſly and preſumpti<g ref="char:EOLhyphen"/>ouſly cavil on for their Cauſe, than think of embracing or entertaining Truth, if found or offer'd againſt them? They may think too that this is Calumny; and when any two of them either explain or underſtand this infallible and damning Doctrine alike, I'll grant it; but when only Intereſt makes them hang as in a ſtring by a ſet form of Words, and their new Variances and Hereſies among one another would be end<g ref="char:EOLhyphen"/>leſs, had not they us their common Enemy to vent them upon. What can move one to ſpare ſuch a ridiculous damning Infallibility.</p>
+            <p>Thus one ſhall tell you, that <hi>the Creed it ſelf is not</hi> Athanaſius's, but forged ſome years ſince. A 2d <hi>renounces the Damnatory Sentences,</hi> as if hethought that there the Creed had overſhot its ſelf. A 3d <hi>acknowledges the Filioque to be an unreaſonable Impoſition;</hi> and a 4th deſtroys the whole purport of the Creed, and by a wily Conſtruction defends it, juſt as an Unitarian would, but that the Gentleman ſeems a little too ſerious to burleſque it.</p>
+            <p>Thus Dr. <hi>W</hi>'s 3 Perſons are 3 <hi>ſomewhats</hi> in God only, and not 3 adequate ſelf-conſcious Perſons; and what? is not the <hi>Socinian</hi> Holy Ghoſt, or the Inſpiration of God ſuch a <hi>ſome<g ref="char:EOLhyphen"/>what?</hi> And was not the aſſiſtance of God to the Son incarnate ſuch a <hi>ſomewhat?</hi> And pray then, is not Dr. <hi>W.</hi> a <hi>Socinian</hi> in Maſquerade?</p>
+            <p>Well, but what, cannot Dr. <hi>W.</hi> ſucceed? Surely then <hi>L. M.</hi> ſhall: I am ſure, whoever is, he is no pert ſmatterer in the Controverſie; for if others have the faculty of writing ſhort, I know nothing that he has done, but ſtrove to puzzle the Cauſe by tediouſneſs, and make men ſick on't; but no we have been threatned a long time by a whole Cabal of <hi>London Divines,</hi> and they'll aſſuredly do the buſineſs. Alas! I am a<g ref="char:EOLhyphen"/>fraid they are many of them ſick on't, and fear 'twill riſe in their Stomachs if they attempt it.</p>
+            <p>In plain terms, I declare 'tis really to be wondred at, to ſee how ſuch a Doctrine as this has been able to pa s muſter through ſo many Centuries, eſpecially among Proteſtants, and in ſuch a ſearching Age as this pretends to be; we may boaſt our ſelves, if we will; but for my part, I think, if this be a ſpice of our Wiſdom, after Ages won't want to wonder to ſee what blind and conceited Dotards we were.</p>
+            <p>To ſhut up all, our Proteſtant Churches are maſſacred, are pla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned with Wars, perſecuted, overcome and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>fled; and well they may, when thus even yet embodied in Antichriſt. What? Can we expect either Peace, God's Protection or Bleſſing, as the <hi>Iſraelites</hi> of old, and yet not think to live accordingly, and be equally jealous of his Honour?</p>
+            <p>
+               <hi>The ſacrifice of the wicked is an abomination to the Lord.</hi>
+            </p>
+            <p>Pſalm 50.16, 17. <hi>But unto the wicked God ſaith, What haſt thou to do to declare my Sta<g ref="char:EOLhyphen"/>tutes, or that thou ſhouldſt take my Covenant in thy mouth, ſeeing thou hateſt inſtructions, and caſteth my words behind thee,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
